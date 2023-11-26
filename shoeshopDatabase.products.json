@@ -1,0 +1,384 @@
+[{
+  "_id": {
+    "$oid": "653527911a0e307481f8d375"
+  },
+  "name": "Women Red Heels Sandal",
+  "image": "/images/1.png",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 29,
+  "countInStock": 0,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-10-22T13:45:53.653Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-22T13:45:53.653Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "653527911a0e307481f8d372"
+  },
+  "name": "Sesame Street Unisex-Child ELMO Puppet Slipper",
+  "image": "/images/4.png",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "rating": 3.5,
+  "numReviews": 3,
+  "price": 929,
+  "countInStock": 0,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-10-22T13:45:53.651Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-22T13:45:53.651Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "653527911a0e307481f8d374"
+  },
+  "name": "Lace Walking Shoes For Boys & Girls  (Pink)",
+  "image": "/images/2.png",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "rating": 2,
+  "numReviews": 2,
+  "price": 49,
+  "countInStock": 7,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-10-22T13:45:53.653Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-22T13:45:53.653Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "653527911a0e307481f8d370"
+  },
+  "name": "Velcro Ballerinas For Girls  (Pink)",
+  "image": "/images/6.png",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "rating": 4,
+  "numReviews": 4,
+  "price": 89,
+  "countInStock": 3,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-10-22T13:45:53.650Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-22T13:45:53.650Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "653527911a0e307481f8d373"
+  },
+  "name": "Lace Casual Boots For Boys & Girls  (Tan)",
+  "image": "/images/3.png",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "rating": 5,
+  "numReviews": 9,
+  "price": 399,
+  "countInStock": 10,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2020-10-22T13:45:53.653Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-22T13:45:53.653Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6535344e2a71e07b20ad832f"
+  },
+  "name": " basket homme XXL",
+  "image": "https://marmote.fr/cdn/shop/products/chaussurerando_1.png",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 28,
+  "countInStock": 120,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2021-10-22T14:40:14.501Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-22T15:51:48.579Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "653535692a71e07b20ad8335"
+  },
+  "name": "Sneakers For Girls ",
+  "image": "https://www.heartjacking.com/6920/chaussures-led-lumineuses.jpg",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 56,
+  "countInStock": 88,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-10-22T14:44:57.071Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-23T17:58:57.757Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "653535c32a71e07b20ad833b"
+  },
+  "name": "Sneakers Classic ",
+  "image": "https://www.cdiscount.com/pdt2/4/5/4/1/700x700/mp03089454/rw/casual-chaussure-homme-basket-homme-respirant-d.jpg",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 50,
+  "countInStock": 73,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-10-22T14:46:27.517Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-22T14:46:27.517Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6535364b2a71e07b20ad8341"
+  },
+  "name": " basket femme ",
+  "image": "https://images.pexels.com/photos/2529147/pexels-photo-2529147.jpeg",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 88,
+  "countInStock": 120,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-10-22T14:48:43.338Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-22T15:42:31.333Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65355108887ab634c1d47844"
+  },
+  "name": "Casual Chaussure Homme",
+  "image": "https://marmote.fr/cdn/shop/products/chaussurerando_1.png?v=1660141615&width=713",
+  "description": "Les images peuvent être soumises à des droits d'auteur. En savoir plus\n\n\n",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 43,
+  "countInStock": 15,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-10-22T16:42:48.661Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-22T16:42:48.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65355350887ab634c1d4784e"
+  },
+  "name": "new product ",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp3RTbav3Hyt863NtZ7Nl1UOmDDjp1VPPt0_CcobIgG2x82870mKo8ySx8MG1YrWUqLHE&usqp=CAU",
+  "description": "Type de chaussures: Base;Origine: CN (Origine);Saison: Printemps / Automne;Type de Motif: Solide;Caractéristique: respirant;Caractéristique.",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 6,
+  "countInStock": 4,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-10-22T16:52:32.784Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-22T16:52:32.784Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65355498887ab634c1d47856"
+  },
+  "name": "ddd",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp3RTbav3Hyt863NtZ7Nl1UOmDDjp1VPPt0_CcobIgG2x82870mKo8ySx8MG1YrWUqLHE&usqp=CAU",
+  "description": "DDDDDDDDDDDDDDDDDDDDDDDDDDDDDD",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 2,
+  "countInStock": 2,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-10-22T16:58:00.769Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-22T16:58:00.769Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "653555a2887ab634c1d4785e"
+  },
+  "name": "Hommes Chaussure de plein air les souliers montants Hiver",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8ZfTLoKSrsUreEfVxCvAVu6rkQhI0ud0GM-Ca7nM5k4w59KDv9q_jemjS50QEZ0Ksqmo&usqp=CAU",
+  "description": "Quels sont les types d'œuvres soumis aux droits d'auteur ?\nLes droits d'auteur confèrent à leur titulaire le droit exclusif d'utiliser l'œuvre, à quelques exceptions près. Lorsqu'une personne crée une œuvre originale, disposée sur un support matériel, elle détient automatiquement les droits d'auteur sur cette œuvre.",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 3,
+  "countInStock": 3,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2019-10-22T17:02:26.355Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-22T17:02:26.355Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "653558c8887ab634c1d47866"
+  },
+  "name": "Images de Chaussure ",
+  "image": "https://img.freepik.com/photos-gratuite/chaussure-sneaker-blanche-isolee-blanc_93675-134695.jpg",
+  "description": "Quels sont les types d'œuvres soumis aux droits d'auteur ?\nLes droits d'auteur confèrent à leur titulaire le droit exclusif d'utiliser l'œuvre, à quelques exceptions près. Lorsqu'une personne crée une œuvre originale, disposée sur un support matériel, elle détient automatiquement les droits d'auteur sur cette œuvre.",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 33,
+  "countInStock": 55,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2019-10-22T17:15:52.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-22T17:15:52.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "653559f7887ab634c1d4786c"
+  },
+  "name": "ZARA",
+  "image": "https://img.freepik.com/photos-gratuite/chaussure-sneaker-blanche-isolee-blanc_93675-134695.jpg",
+  "description": "FFFFFFFFFFFFFFFFFF",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 3,
+  "countInStock": 6,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2019-10-22T17:20:55.042Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-22T17:20:55.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65363cd97f1e2f0c64649ebb"
+  },
+  "name": "Chaussure à lacets Tensaur Sport Training",
+  "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/aa53a0a800c846abb44aae8a00367e1d_9366/Chaussure_a_lacets_Tensaur_Sport_Training_Blanc_GW6422_01_standard.jpg",
+  "description": "Les enfants qui acquièrent de nouvelles compétences ont besoin de chaussures capables de les suivre. Cette sneaker adidas classique possède.",
+  "rating": 0,
+  "numReviews": 0,
+  "price": 54,
+  "countInStock": 25,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2018-10-23T09:28:57.758Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-23T09:28:57.758Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6536489f7f1e2f0c64649edd"
+  },
+  "name": "Basket de sécurité mixte HAKA",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUxjHVvqBkWOz2TyePf-rp4pW1u6muBgDb9qfSKmZ8rkaxKh4T9mXuggOFT-bPhgeYsdg&usqp=CAU",
+  "description": "La HAKA S1P est une basket de sécurité S1P SRC pour hommes et femmes en microfibre légère et respirante.",
+  "rating": 3,
+  "numReviews": 1,
+  "price": 44,
+  "countInStock": 15,
+  "reviews": [
+    {
+      "name": "admin",
+      "rating": 3,
+      "comment": "J'ai opté pour le développement de la composante frontend de l'application en utilisant le framework React, associé à Redux. Cette combinaison offre une gamme étendue d'outils visant à simplifier le processus de développement web, incluant la gestion des routes URL et la création de formulaires.",
+      "user": {
+        "$oid": "65074a0ac8bfa628ac7b3401"
+      },
+      "_id": {
+        "$oid": "653e88f29bce4db4eb4fdae9"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2018-10-23T10:19:11.597Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-29T16:31:46.929Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "65365e487f1e2f0c64649f0d"
+  },
+  "name": "Chaussures Nike ",
+  "image": "https://www.ekinsport.com/media/catalog/product/cache/173ef9ab000c6667578594f63bf9da15/d/q/dq8426-060_chaussures-air-jordan-1-mid-homme-dq8426-060_01.jpg",
+  "description": "AUX COULEURS DES LAKERS.\n\nInspiré de la AJ1 originale, ce modèle mi-montant conserve le look emblématique que vous aimez tant, tandis que le choix des couleurs et le cuir impeccable lui confèrent une identité unique.",
+  "rating": 2,
+  "numReviews": 1,
+  "price": 22,
+  "countInStock": 23,
+  "reviews": [
+    {
+      "name": "admin",
+      "rating": 2,
+      "comment": "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard",
+      "user": {
+        "$oid": "65074a0ac8bfa628ac7b3401"
+      },
+      "_id": {
+        "$oid": "653e8a599bce4db4eb4fdaf8"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2018-10-23T11:51:36.268Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-29T16:37:45.197Z"
+  },
+  "__v": 1
+}]

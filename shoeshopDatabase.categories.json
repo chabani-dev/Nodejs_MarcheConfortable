@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "6550ec316fbeb665826b51cf"
+  },
+  "user": {
+    "$oid": "65074a0ac8bfa628ac7b3401"
+  },
+  "product": {
+    "$oid": "653527911a0e307481f8d370"
+  },
+  "name": "chaussure femme classiques",
+  "image": "https://storage.googleapis.com/cdn-maison-rainbow-site-19/production/2020/10/Chaussures-Philippe-Model-a-Bordeaux.jpg",
+  "description": "quand élégance rime avec originalité",
+  "createdAt": {
+    "$date": "2023-11-12T15:16:01.242Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-12T15:49:45.436Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6550ecf36fbeb665826b51d3"
+  },
+  "user": {
+    "$oid": "65074a0ac8bfa628ac7b3401"
+  },
+  "product": {
+    "$oid": "653527911a0e307481f8d373"
+  },
+  "name": "Chaussure femme – Captain Shopper",
+  "image": "https://www.captain-shopper.com/cdn/shop/products/931509.jpg?v=1687954975&width=533",
+  "description": "quand élégance rime avec originalité",
+  "createdAt": {
+    "$date": "2023-11-12T15:19:15.329Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-12T15:19:15.329Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6550ed396fbeb665826b51d7"
+  },
+  "user": {
+    "$oid": "65074a0ac8bfa628ac7b3401"
+  },
+  "product": {
+    "$oid": "653527911a0e307481f8d373"
+  },
+  "name": "Philippe Model Baskets femme en daim rouge",
+  "image": "https://www.italian-boutique.fr/6074-tm_large_default/philippe-model-baskets-femme-en-daim-rouge-avec-semelle-blanche.jpg",
+  "description": "quand élégance rime avec originalité",
+  "createdAt": {
+    "$date": "2023-11-12T15:20:25.086Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-12T15:20:25.086Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65524a8a43eead85c612b2d9"
+  },
+  "user": {
+    "$oid": "65074a0ac8bfa628ac7b3401"
+  },
+  "product": {
+    "$oid": "653527911a0e307481f8d373"
+  },
+  "name": "femme en daim rouge",
+  "image": "https://www.italian-boutique.fr/6074-tm_large_default/philippe-model-baskets-femme-en-daim-rouge-avec-semelle-blanche.jpg",
+  "description": "quand élégance rime avec originalité",
+  "createdAt": {
+    "$date": "2023-11-13T16:10:50.636Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-13T16:10:50.636Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65537f568a610507dbb28367"
+  },
+  "user": {
+    "$oid": "65074a0ac8bfa628ac7b3401"
+  },
+  "product": {
+    "$oid": "653527911a0e307481f8d375"
+  },
+  "name": "chaussure confortable femme",
+  "image": "https://www.italian-boutique.fr/6074-tm_large_default/philippe-model-baskets-femme-en-daim-rouge-avec-semelle-blanche.jpg",
+  "description": "quand élégance rime avec originalité",
+  "createdAt": {
+    "$date": "2023-11-14T14:08:22.802Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-14T14:08:22.802Z"
+  },
+  "__v": 0
+}]
